@@ -1,4 +1,4 @@
 phpexercises
 ============
 
-Exercise files (Learning PHP)
+Exercise files for PHP training course. 
